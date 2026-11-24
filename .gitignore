@@ -1,0 +1,22 @@
+# R and RStudio temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Proteomics raw data and large archives (keep locally only)
+data/raw/*
+!data/raw/.gitkeep
+*.raw
+*.mzML
+*.mzXML
+*.zip
+*.gz
+
+# renv library cache (keep renv.lock tracked)
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/staging/

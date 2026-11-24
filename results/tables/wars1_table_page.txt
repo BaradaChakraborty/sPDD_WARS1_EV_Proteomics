@@ -1,0 +1,88 @@
+Supplementary tables
+
+Supplementary table 1: List of TLR modulators (activator and inhibitor proteins)
+
+ Protein name          Symbol    Uniprot   target   Ref     KO vs WT log2   KO vs WT p-   Rank
+                                 ID                         Fold-change     value
+                                                    1
+ Calcineurin B         Ppp3r1    Q63810    TLR4             9.92987         1.97208E-05   26
+                                                    2
+ Growth                GDF11     Q9Z1W4    TLR4,                                          29
+ Differentiation                           TLR2
+ Factor 11                                                  11.22797        3.1479E-05
+                                                    34
+ Apolipoprotein E      ApoE      P08226    TLR3,            1.65056         0.000867      64
+                                           TLR4
+                                                    5
+ Tryptophanyl-         WARS1     E0CXX4    TLR2,            4.17236         0.005211      100
+ tRNA Synthetase 1                         TLR4
+                                                    6
+ Endoplasmin           Hsp90b1   P08113    TLR4,                                          208
+                                           TLR2             2.80606         0.022281
+                                                    7
+ Nucleophosmin 1       Npm1      Q61937    TLR4             1,93969         0,031921      278
+                                                    8
+ Ribosomal protein     Rps3      P62908    TLR4                                           299
+ S3                                                         2.67281         0.034660
+                                                    9
+ Heatshock 70kDa       Hsp70     P17879    TLR4,            3,17708         0,045692      376
+                                           TLR2
+                                                    10 11
+ TLR4 interactor       TRIL      Q9DBY4    TLR4,                                          948
+ with leucine rich                         TLR3
+ repeats                                                    5.00339         0.135716
+                                                    12
+ Fibronectin extra     Fn1       P11276    TLR4             1.95369         0.114627      864
+ domain A
+                                                    13
+ High Mobility         hmgb1     P63158    TLR4,                                          748
+ Group Box 1                               TLR2,
+                                           TLR5,
+                                           TLR9             1.76656         0.098442
+                                                    14
+ 60 kDa heat shock     Hsp60     P63038    TLR4,            0.94838         0.383724      1511
+ protein                                   TLR2,
+                                           TLR5
+                                                    15
+ Amyloid Beta          APP       P12023    TLR2,            0.78691         0.044308      364
+                                           TLR4,
+                                           TLR6,
+                                           TLR9
+                                                    16
+ Tenascin-C            Tnc       Q80YX1    TLR4             0.28748         0.551466      1702
+                                                    17
+ Versican              Vcan      Q62059    TLR2             2.42102         0.635803      1755
+                                                    18
+ Biglycan              BGN       P28653    TLR2,            -2,70279        0.001243      72
+                                           TLR4
+                                                    19
+ angiotensin II,       Agt       P11859    TLR4             NF              n/a
+ precursor =
+ angiotensinogen
+                                                    20
+ Antiphospholipid      n/a       n/a       TLR7,            NF              n/a
+ antibodies                                TLR8
+                                                    21
+ Beta defensin-2       BD-2      O15263    TLR4             NF              n/a
+                                                    22
+ Fibrinogen            Fgl1      Q71KU9    TLR4             NF              n/a
+                                                    23
+ Hyaluronan binding    Habp2     Q8K0D2    TLR4             NF              n/a
+ protein 2
+                                                    24
+ Heparan sulfate N-    Ndst1     Q3UHN9    TLR4             NF              n/a
+ deacetylse
+                                                    25
+ myeloid-related       Mrp8      P27005    TLR4             NF              n/a
+ protein-8
+                                                    25
+ myeloid-related       Mrp14     P31725    TLR4             NF              n/a
+ protein-14
+                                                    26
+ Oxidized low-         OLR1      Q9EQ09    TLR4             NF              n/a
+ density lipoprotein
+ receptor 1
+                                                    27
+ Serum amyloid A       SAA-1     P05366    TLR1,            NF              n/a
+                                           TLR2
+

@@ -1,0 +1,29 @@
+page,line_text
+7,Rps3 1.5
+7,Rps3 mRNA expression (AU)
+7,Rps3 mRNA expression (AU)
+7,MEFs Ifnb -/- Rps3 L
+7,Single channel of immunofluorescence staining of Ifnb+/+ and Ifnb-/- MEFs for DNA and Rps3. Coloured images and
+7,IP shown in Figure 6. One representative of 3 biological replicates. J. Knock-down of Rps3 in N2As validated with
+7,qPCR. K. Rps3 knock-down efficiency in N2As and CN. L. mtDNA levels in EVs purified from WT and δIfnb N2A
+7,cells knocked down for Rps3. siNTC is used as control. N=3.
+8,"generation and PDD-like pathology. In neurons lacking IFNβ/IFNAR signalling, subjected to oxidative stress, Rps3"
+9,"Tryptophanyl- WARS1 E0CXX4 TLR2, 4.17236 0.005211 100"
+9,Ribosomal protein Rps3 P62908 TLR4 299
+10,"Rps3 CST, #9538 WB 1:500, IF 1:60"
+11,Rps3 forward primer 5’-AAGATGGCGGTG-CAGATTTC-3’
+11,Rps3 reverse primer 5’-AGTAGCCATCTTCAGCCAGCTC-3’
+41,mtDNA/Rps3 immunoprecipitation
+41,"Fast Flow beads and 6µL anti-Rps3 or anti-Tfam antibody. After incubation ON at 4ºC, beads were"
+42,water. qPCR was performed to quantify DNA binding to Rps3 as explained earlier and normalized to
+44,"FIJI script for Rps3/DNA/mitochondria, colocalized pixels"
+44,Determine rps3/DNA colocalized points
+44,"run(""Colocalization "", ""channel_1=[200211_MEFs wt R3 5.tif (red=Rps3)]"
+48,Fam20b Ppp3r1 Tfam Rps3
+48,Grm5 Wars1 Ssbp1 Recql4
+48,Glt8d1 Rps3 Vdac3 Mutyh
+48,Tenm1 Hsp70 Rps3 Msh6
+48,Dtd1 Apex1
+49,Apex1
+50,Wars
+53,Rps3
